@@ -1,0 +1,1 @@
+Estudo de caso spring-ioc-di-beans-autowired
